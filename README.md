@@ -9,7 +9,7 @@ While current threat intelligence tools help, identifying unknown threats and at
 
 ## **Overview**
 
-With the arrival of big data platforms, security organizations can now make data-driven decisions about how they protect their assets.  Records of network traffic, captured as network flows, are often stored and analyzed for use in network management.  An organization can use this same information to gain insight into what channels corporate information flows through. 
+With the arrival of big data platforms, security organizations can now make data-driven decisions about how they protect their assets.  Records of network traffic, captured as network flows, are often stored and analyzed for use in network management.  An organization can use this same information to gain insight into what channels corporate information flows through. Test
 
 By taking into account additional context such as prevalent attacks and key protocols to the organization, the security team can develop a strategy that applies the right amount of per-channel risk mitigation based on the value of the data flowing through it.  For an organization, we call this “the port perspective”. 
 
